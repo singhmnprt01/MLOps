@@ -1,2 +1,2 @@
-# Deploy a Docker image of ML as a flask API on Oracle Kubernetes Engine (OKE)
+# Deploy a ML Flask Application on Oracle Kubernetes Engine (OKE)
 
